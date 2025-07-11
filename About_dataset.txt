@@ -1,0 +1,11 @@
+In today's fast-paced world, the way we travel and seek accommodations has undergone a remarkable transformation, thanks to platforms like Airbnb. This dynamic marketplace has empowered property owners and travellers, offering a diverse range of lodging options. However, one enduring challenge is setting the right price for a listing. Hosts aspire to optimize their earnings while ensuring competitive pricing, while guests seek value for their money. Balancing these interests can be intricate, and that's where the motivation for Airbnb price prediction comes in.
+
+Di dunia yang serba cepat saat ini, cara kita bepergian dan mencari akomodasi telah mengalami transformasi yang luar biasa, berkat platform seperti Airbnb. Pasar yang dinamis ini telah memberdayakan pemilik properti dan wisatawan, menawarkan beragam pilihan penginapan. Namun, salah satu tantangan yang masih ada adalah menetapkan harga yang tepat untuk sebuah listing. Tuan rumah ingin mengoptimalkan pendapatan mereka sambil memastikan harga yang kompetitif, sementara para tamu mencari nilai untuk uang mereka. Menyeimbangkan kepentingan ini bisa jadi rumit, dan di situlah motivasi untuk prediksi harga Airbnb.
+
+Jumlah Data: 74111
+Total Kolom: 29
+Ukuran Dataset: 101.55mb
+Format File: .csv
+Jumlah File: 1
+
+(https://www.kaggle.com/datasets/rupindersinghrana/airbnb-price-dataset)
